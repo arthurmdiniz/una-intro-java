@@ -1,17 +1,12 @@
 import java.util.Scanner;
 
-// Online IDE - Code Editor, Compiler, Interpreter
+// Arthur Marques Diniz
 
 public class Exercicio01{
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num1,num2, soma;
-        //string next()
-        //int nextInt()
-        //double nextDouble()
-        
-        //String - int - double - char 
         
         System.out.print("Digite primeiro numero: ");
         num1 = scanner.nextInt();
